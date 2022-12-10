@@ -26,5 +26,5 @@
 #### Total Cost 10 770 $/year
 The solution covers the main risks that could have an impact on business continuity. The final cost could be revised based on the risk assessment.
 ___
-[AWS calculation](https://calculator.aws/#/estimate?id=aec9339179da2876eca6632c24f980a704660159) of the same solution shows total cost - 830 $/year + 200 $/year administration.
-In general, we could conclude that for a low-loaded website to cover all the risks it is preferable to use AWS. With the scalability and longer terms situation could change.
+[AWS calculation](https://calculator.aws/#/estimate?id=aec9339179da2876eca6632c24f980a704660159) of the same solution shows total cost 830   and  200 $/year administration.
+In general, we could conclude that for a low-loaded website to cover all the risks it is preferable to use AWS.
